@@ -1,0 +1,104 @@
+1694865400227	geckodriver	INFO	Listening on 127.0.0.1:50528
+1694865403394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileYnd08H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694865404551	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694865404563	Marionette	INFO	Listening on port 50550
+Read port: 50550
+WebDriver BiDi listening on ws://127.0.0.1:50529
+1694865404903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50529/devtools/browser/e501341d-5c72-43b3-bfda-0fbb78da6761
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+1694865445293	Marionette	INFO	Stopped listening on port 50550
+Dynamically enable window occlusion 1
+1694865449825	geckodriver	INFO	Listening on 127.0.0.1:50630
+1694865452856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofiled1lBQh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694865453542	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694865453549	Marionette	INFO	Listening on port 50639
+Read port: 50639
+WebDriver BiDi listening on ws://127.0.0.1:50631
+1694865453816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50631/devtools/browser/0f2084be-d07e-4fab-b172-4c9728f43cda
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+1694865511740	Marionette	INFO	Stopped listening on port 50639
+Dynamically enable window occlusion 1
+1694865518276	geckodriver	INFO	Listening on 127.0.0.1:50728
+1694865521268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilezQPadL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694865521746	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694865521753	Marionette	INFO	Listening on port 50737
+Read port: 50737
+WebDriver BiDi listening on ws://127.0.0.1:50729
+1694865521973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50729/devtools/browser/2fa0b6e9-60e5-4685-a733-1c2bba8b586d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+1694865576833	Marionette	INFO	Stopped listening on port 50737
+Dynamically enable window occlusion 1
+1694865581515	geckodriver	INFO	Listening on 127.0.0.1:50816
+1694865584548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile5jrAEt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694865585040	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694865585048	Marionette	INFO	Listening on port 50828
+Read port: 50828
+WebDriver BiDi listening on ws://127.0.0.1:50817
+1694865585266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50817/devtools/browser/7606469f-5e30-45ab-96f2-2ff026ebfbc3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1694869442730	Marionette	INFO	Stopped listening on port 50828
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "50901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilesO8PzM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694865635781	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694865635789	Marionette	INFO	Listening on port 50909
+Read port: 50909
+WebDriver BiDi listening on ws://127.0.0.1:50901
+1694865636049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50901/devtools/browser/3714bcf8-4304-4f61-bf49-77d00543fcea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1694869437188	Marionette	INFO	Stopped listening on port 50909
+Dynamically enable window occlusion 1
+"localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile5DwGUx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694865682199	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694865682212	Marionette	INFO	Listening on port 51020
+Read port: 51020
+WebDriver BiDi listening on ws://127.0.0.1:51011
+1694865682499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51011/devtools/browser/1808fd84-c6cd-495b-8262-9e8707d74563
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+1694865698355	Marionette	INFO	Stopped listening on port 51020
+Dynamically enable window occlusion 1
+1694865702851	geckodriver	INFO	Listening on 127.0.0.1:51057
+1694865705875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilezbVxbT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694865706327	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694865706334	Marionette	INFO	Listening on port 51069
+Read port: 51069
+WebDriver BiDi listening on ws://127.0.0.1:51058
+1694865706544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51058/devtools/browser/715bf4ff-a2ed-43fd-b3b6-ce58a86d6c9c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://facegenie-ams-school.web.app."
